@@ -7,3 +7,8 @@ p.notice{
     text-align: center;
     color:darkblue
 }
+
+.Searchbar{
+    float: none;
+    text-align: right;
+}
