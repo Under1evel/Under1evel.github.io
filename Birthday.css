@@ -11,4 +11,6 @@ p.notice{
 .Searchbar{
     float: none;
     text-align: right;
+    display: block;
+    margin: auto;
 }
